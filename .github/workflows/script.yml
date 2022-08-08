@@ -23,4 +23,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: bot fram
-        run: python .github/workflows/main.py
+        run: python main.py
