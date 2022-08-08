@@ -1,0 +1,4 @@
+Current version: 1.0.7
+Lastest version: 1.0.7
+
+-Fixed bypass captcha and stop when captcha a lot
